@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e655f98cbe754e02ae00fea9ecc0960, type: 3}
+  m_Name: Front
+  m_EditorClassIdentifier: 
+  ThreeViewName: 'View: Front View'
+  thisview: {fileID: 21300000, guid: ed797080955f34d47aedfb7121743e99, type: 3}
+  Front: {fileID: 0}
+  Side: {fileID: 11400000, guid: 71036e3d0e37d440ea6051298f5f57a2, type: 2}
+  Vertical: {fileID: 11400000, guid: 6fb10426451854b8e9c719dc73e6934d, type: 2}
