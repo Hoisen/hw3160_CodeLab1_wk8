@@ -13,6 +13,8 @@ public class CamPosScriptableObject : ScriptableObject
     public string ThreeViewName;
     public Sprite thisview;
 
+    public Camera camera;// cannot attach any asset to here
+
 
     public CamPosScriptableObject Front;
     public CamPosScriptableObject Side;
